@@ -1,3 +1,6 @@
+//Time Complexity O(N2)
+//Auxilary Space O(1)
+
 let arr = [64,95,11,22,12];
 
 let i = 0;
